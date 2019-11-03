@@ -37,7 +37,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go Build.go build github.com/DMEvanCT/BlockChainLearning/cmd/main">
     <configuration name="go build github.com/DMEvanCT/BlockChainLearning/cmd/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$/../BlockChainLearning/" />
@@ -46,9 +46,17 @@
       <package value="github.com/DMEvanCT/BlockChainLearning/cmd/main" />
       <method v="2" />
     </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$/../BlockChainLearning/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/../BlockChainLearning/cmd/main/main.go" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Go Build.go build github.com/DMEvanCT/BlockChainLearning/cmd/main" />
+        <item itemvalue="Go Build.go build main.go" />
       </list>
     </recent_temporary>
   </component>
